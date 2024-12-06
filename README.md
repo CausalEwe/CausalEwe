@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sergey-vyatkin-8b4382192) [![Gmail](https://img.shields.io/badge/Gmail-orange)](mailto:ser42rus@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-33b4e3)](https://t.me/CausalEwe407)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/causalewe/) [![Gmail](https://img.shields.io/badge/Gmail-orange)](mailto:ser42rus@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-33b4e3)](https://t.me/CausalEwe407)
 
 </div>
 
