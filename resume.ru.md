@@ -16,7 +16,6 @@
 - **Telegram**: [@CausalEwe407](https://t.me/CausalEwe407)
 
 <h1>Навыки</h1>
---
 
 Backend: 
 Fullstack: 
@@ -33,9 +32,11 @@ Frontend:
 Внедрил сервис авторизации с использованием IdentityServer. 
 Разработал пользовательские компоненты на Frontend, что повысило удобство и улучшило взаимодействие пользователей с системой.
 
-•	Backend: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, Dapper, MSSQL (T-SQL), Redis, IdentityServer
-•	Протоколы связи: Kafka, RabbitMQ, GRPC
-•	Frontend: Angular, Typescript
-•	DevOps: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
-•	Паттерны и принципы: Clean Architecture, Domain Driven Design, Microservice
+- **Backend**: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, Dapper, MSSQL (T-SQL), Redis, IdentityServer
+- **Протоколы связи**: Kafka, RabbitMQ, GRPC
+- **Frontend**: Angular, Typescript
+- **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
+- **Паттерны и принципы**: Clean Architecture, Domain Driven Design, Microservice
+
+---
 
