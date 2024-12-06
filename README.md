@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**CausalEwe/CausalEwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# .NET Fullstack Developer с глубоким профессиональным опытом и стремлением создавать высококачественные решения.
 
-Here are some ideas to get you started:
+Сейчас работаю и продолжаю развиваться в своей области.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-profile-link)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-orange?style=for-the-badge)](mailto:your-email@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-Message-green?style=for-the-badge)](https://t.me/your-telegram-link)
+
+</div>
+
+---
+
+## Мой профессиональный опыт
+
+Мой профессиональный опыт доступен на двух языках:
+
+- [Русский](experience_ru.md)
+- [Английский](experience_en.md)
