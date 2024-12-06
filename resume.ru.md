@@ -11,9 +11,9 @@
 
 <h1>Контактная информация</h1>
 
-- **GitHub**:
-LinkedIn:
-Telegram:
+- **GitHub**: [CausalEwe](https://github.com/CausalEwe)
+- **LinkedIn**: [CausalEwe](https://www.linkedin.com/in/causalewe/)
+- **Telegram**: @[CausalEwe407](https://t.me/CausalEwe407)
 
 <h1>Навыки</h1>
 
