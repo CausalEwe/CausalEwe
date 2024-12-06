@@ -16,6 +16,7 @@
 - **Telegram**: [@CausalEwe407](https://t.me/CausalEwe407)
 
 <h1>Навыки</h1>
+--
 
 Backend: 
 Fullstack: 
