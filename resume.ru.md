@@ -32,7 +32,7 @@
 Работал с RabbitMQ для обработки асинхронных сообщений и обмена данными между сервисами, что повысило масштабируемость и уменьшило время отклика, обеспечив более высокую доступность системы и улучшив пользовательский опыт. 
 Обеспечил высокую производительность и стабильность системы, активно использовал CI/CD процессы для автоматизации сборки и деплоя, что сократило время на выпуск новых фич и уменьшило количество ошибок, повышая оперативность и снижая затраты на тестирование и поддержку. 
 
-- **Backend**: C#, .NET Core 3.1, .NET 6, PostgreSQL, RabbitMQ
+- **Backend**: C#, .NET Core 3.1, .NET 6, PostgreSQL, RabbitMQ, Entity Framework Core
 - **Протоколы связи**: RabbitMQ
 - **Frontend**: Angular, extJs
 - **DevOps**: Docker, Azure DevOps Server, CI/CD
@@ -47,7 +47,7 @@
 Внедрил сервис авторизации с использованием IdentityServer. 
 Разработал пользовательские компоненты на Frontend, что повысило удобство и улучшило взаимодействие пользователей с системой.
 
-- **Backend**: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, Dapper, MSSQL (T-SQL), Redis, IdentityServer
+- **Backend**: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, MSSQL (T-SQL), Redis, IdentityServer
 - **Протоколы связи**: Kafka, RabbitMQ, GRPC
 - **Frontend**: Angular, Typescript
 - **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
@@ -63,7 +63,7 @@
 Использовал ELK не только для мониторинга и логирования, но и как оперативную базу данных для обработки запросов компании, что ускорило анализ данных и повысило эффективность необходимых модулей системы по требованию работодателей.
 Предложил внедрение ClickHouse для аналитики больших данных, что в будущем значительно улучшило обработку аналитических запросов.
 
-- **Backend**: C#, .NET 6, ASP.NET, ELK, MySql, ClickHouse
+- **Backend**: C#, .NET 6, ASP.NET, ELK, MySql, Dapper, ClickHouse
 - **DevOps**: Docker, Azure DevOps Server, CI/CD
 - **Паттерны и принципы**: Monolith, Onion Architecture
 
@@ -76,10 +76,11 @@
 Разработал новые API и модули, улучшив взаимодействие с пользователями и внешними сервисами, что привело к улучшению пользовательского опыта и повышению удовлетворенности клиентов.
 Обрабатывал запросы поддержки и баги, минимизируя время простоя системы и снижая количество инцидентов, что способствовало повышению доверия клиентов.
 
-- **Backend**: C#, .Net, ASP.NET Razor Pages, Dapper, MSSQL (T-SQL)
+- **Backend**: C#, .Net, ASP.NET, Razor Pages, Entity Framework, MSSQL (T-SQL)
 - **Протоколы связи**: RabbitMQ
-- **Frontend**: React, Typescript
-- **DevOps**: Docker, Azure DevOps Server
+- **Frontend**: Razor Pages
+- **DevOps**: Docker, Gitlab
+- **Паттерны и принципы**: Monolith, Onion Architecture
 
 ---
 
@@ -92,7 +93,8 @@
 
 - **Backend**: C#, .Net, ASP.NET Razor Pages, Dapper, MSSQL (T-SQL)
 - **Протоколы связи**: RabbitMQ
-- **Frontend**: React, Typescript
+- **Frontend**: React, Typescript, Razor Pages, Javascript, JQuery, Knockout
 - **DevOps**: Docker, Azure DevOps Server
+- **Паттерны и принципы**: Monolith, Onion Architecture
 
 ---
