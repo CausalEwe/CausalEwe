@@ -28,3 +28,14 @@ Frontend:
 
 <h3>Старший разработчик - Loymax Solutions (февраль 2022 – февраль 2024)</h3>
 
+Осуществил поддержку и разработку новых модулей, продуктов компании, проводил код-ревью (проверка кода), передавал опыт начинающим разработчикам, стажерам. 
+Оптимизировал работу с платёжными системами, что позволило отслеживать события по скидкам и акциям компании, увеличив прибыль. 
+Внедрил сервис авторизации с использованием IdentityServer. 
+Разработал пользовательские компоненты на Frontend, что повысило удобство и улучшило взаимодействие пользователей с системой.
+
+•	Backend: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, Dapper, MSSQL (T-SQL), Redis, IdentityServer
+•	Протоколы связи: Kafka, RabbitMQ, GRPC
+•	Frontend: Angular, Typescript
+•	DevOps: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
+•	Паттерны и принципы: Clean Architecture, Domain Driven Design, Microservice
+
