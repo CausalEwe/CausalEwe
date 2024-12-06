@@ -36,7 +36,7 @@
 - **Протоколы связи**: RabbitMQ
 - **Frontend**: Angular, extJs
 - **DevOps**: Docker, Azure DevOps Server, CI/CD
-- **Паттерны и принципы**: Microservices, Clean Architecture
+- **Паттерны и принципы**: Microservices, Clean Architecture, Domain Driven Design
 
 ---
 
