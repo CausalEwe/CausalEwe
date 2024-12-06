@@ -11,9 +11,9 @@
 
 ##Контактная информация
 
-GitHub: itprodavets
-LinkedIn: itprodavets
-Telegram: @itprodavets
+GitHub:
+LinkedIn:
+Telegram:
 
 ##Навыки
 
