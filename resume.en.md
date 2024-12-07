@@ -63,7 +63,6 @@ Designed and implemented services using CQRS and gRPC approaches.
 
 <h3>Senior .NET Developer - Vector M (September 2023 – December 2023)</h3>
 
-Served as a consultant on a three-month project.  
 Maintained and optimized existing modules and components in microservices, improving system performance and resilience.  
 Developed a document management service for generating PDF files, automating document creation and processing, significantly enhancing work efficiency.  
 Used ELK not only for monitoring and logging but also as an operational database for handling company requests, accelerating data analysis and improving the efficiency of required system modules as per employer requests.  
