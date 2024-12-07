@@ -85,7 +85,7 @@
 - **Backend**: C#, .Net, .Net Framework 4.8, Entity Framework, MSSQL (T-SQL)
 - **Протоколы связи**: RabbitMQ
 - **Frontend**: Angular, AngularJs, Typescript
-- **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
+- **DevOps**: Docker, Azure DevOps Server, CI/CD
 - **Паттерны и принципы**: Monolith, Onion Architecture
 
 ---
