@@ -21,11 +21,11 @@
 
 <h1>Навыки</h1>
 
-- **Backend**: .NET Framework, .NET Core, C#, ASP.NET MVC, ASP.NET WEBAPI, ASP.NET Core, SignalR, AWS, Azure
+- **Backend**: .NET Framework, .NET Core, C#, ASP.NET MVC, ASP.NET WEBAPI, ASP.NET Core, SignalR, AWS, Azure DevOps Server
 - **Fullstack**: JavaScript, TypeScript, Bash, C#, SQL
 - **Frontend**: HTML5, CSS3, JavaScript, Vue.js, Angular, AngularJS, Knockout, React, jQuery
 - **Базы данных**: Azure SQL, MySQL, MSSQL, PostgreSQL, Redis, MongoDB
-- **Интеграции**: Kafka, RabbitMQ, SignalR
+- **Интеграции**: Kafka, RabbitMQ, SignalR, Kubernetes
 
 <h1>Профессиональный опыт</h1>
 
