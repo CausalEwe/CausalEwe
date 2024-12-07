@@ -34,10 +34,10 @@
 Обеспечил высокую производительность и стабильность системы, активно использовал CI/CD процессы для автоматизации сборки и деплоя, что сократило время на выпуск новых фич и уменьшило количество ошибок, повышая оперативность и снижая затраты на тестирование и поддержку. 
 
 - **Backend**: C#, .NET Core 3.1, .NET 6, PostgreSQL, RabbitMQ, Entity Framework Core
-- **Протоколы связи**: RabbitMQ
+- **Протоколы связи**: Kafka, RabbitMQ, GRPC
 - **Frontend**: Angular, extJs
 - **DevOps**: Docker, Azure DevOps Server, CI/CD
-- **Паттерны и принципы**: Microservices, Clean Architecture, Domain Driven Design
+- **Паттерны и принципы**: Clean Architecture, Domain Driven Design, CQRS, MediatR
 
 ---
 
@@ -53,7 +53,7 @@
 - **Протоколы связи**: Kafka, RabbitMQ, GRPC
 - **Frontend**: Angular, Typescript
 - **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
-- **Паттерны и принципы**: Clean Architecture, Domain Driven Design, Microservice
+- **Паттерны и принципы**: Clean Architecture, Domain Driven Design, CQRS, MediatR
 
 ---
 
