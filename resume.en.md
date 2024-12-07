@@ -21,11 +21,11 @@
 
 <h1>Skills</h1>
 
-- **Backend**: 
-- **Fullstack**: 
-- **Frontend**:
-- **Databases**:
-- **Integrations**:
+- **Backend**: .NET Framework, .NET Core, C#, ASP.NET MVC, ASP.NET WEBAPI, ASP.NET Core, SignalR, AWS, Azure DevOps Server
+- **Fullstack**: JavaScript, TypeScript, Bash, C#, SQL
+- **Frontend**: HTML5, CSS3, JavaScript, Vue.js, Angular, AngularJS, Knockout, React, jQuery
+- **Databases**: Azure SQL, MySQL, MSSQL, PostgreSQL, Redis, MongoDB
+- **Integrations**: Kafka, RabbitMQ, SignalR, Kubernetes
 
 <h1>Professional Experience</h1>
 
