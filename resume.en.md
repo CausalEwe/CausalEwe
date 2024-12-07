@@ -1,4 +1,4 @@
-<h1>Sergey Vyatkin</h1>
+<h1>Sergey Karpov</h1>
 <p>I am an experienced software developer with extensive expertise in geographic information systems, loyalty programs, and enterprise information systems. Specializing in the development of microservices architecture, complex system integration, and business process optimization to enhance efficiency and reliability of applications.</p>
 
 <p>Key Achievements:</p>
