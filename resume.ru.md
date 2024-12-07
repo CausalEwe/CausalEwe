@@ -55,7 +55,7 @@
 
 - **Backend**: C#, .Net, ASP.NET Razor Pages, Entity Framework Core, ELK, MSSQL (T-SQL), Redis, IdentityServer
 - **Протоколы связи**: Kafka, RabbitMQ, GRPC
-- **Frontend**: Angular, Typescript
+- **Frontend**: Angular, AngularJs, Typescript
 - **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
 - **Паттерны и принципы**: Clean Architecture, Domain Driven Design, CQRS, MediatR
 
@@ -75,17 +75,17 @@
 
 ---
 
-<h3> Middle .NET Developer - Neo stack Technology (июнь 2020 - февраль 2022)</h3>
+<h3> Middle .NET Full-Stack Developer - Loymax Solutions (июнь 2020 - февраль 2022)</h3>
 
-Работал над поддержкой и развитием монолитного приложения на ASP.NET Core, что позволило улучшить производительность и стабильность системы.
+Работал над поддержкой и развитием монолитной части приложения на .NET Framework, что позволило улучшить производительность и стабильность системы.
 Проводил рефакторинг и оптимизацию кода, что значительно повысило скорость работы приложения, уменьшив время отклика на запросы пользователей.
 Разработал новые API и модули, улучшив взаимодействие с пользователями и внешними сервисами, что привело к улучшению пользовательского опыта и повышению удовлетворенности клиентов.
 Обрабатывал запросы поддержки и баги, минимизируя время простоя системы и снижая количество инцидентов, что способствовало повышению доверия клиентов.
 
-- **Backend**: C#, .Net, ASP.NET, Razor Pages, Entity Framework, MSSQL (T-SQL)
+- **Backend**: C#, .Net, .Net Framework 4.8, Entity Framework, MSSQL (T-SQL)
 - **Протоколы связи**: RabbitMQ
-- **Frontend**: Razor Pages
-- **DevOps**: Docker, Gitlab
+- **Frontend**: Angular, AngularJs, Typescript
+- **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry
 - **Паттерны и принципы**: Monolith, Onion Architecture
 
 ---
