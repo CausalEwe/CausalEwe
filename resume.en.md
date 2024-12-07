@@ -3,9 +3,9 @@
 
 <p>Key Achievements:</p>
 
-- Optimized system performance by improving database interactions, reducing server load and infrastructure costs.
-- Developed and implemented document management services, automating the creation and processing of PDF documents.
-- Modernized internal business logic for discount and promotion calculations, increasing system flexibility and profitability.
+- Improved the efficiency of price adjustment processes in loyalty programs.
+- Developed and implemented document management services, increasing customer loyalty.
+- Optimized the business logic for calculating discounts and promotions, which enhanced system flexibility and significantly boosted the company's profitability.
 
 <p>Professional Qualities:</p>
 
