@@ -1,5 +1,5 @@
 <h1>Sergey Vyatkin</h1>
-<p>Experienced software developer with extensive expertise in geographic information systems, loyalty programs, and corporate information systems. Specializing in the development of microservices architecture, complex system integration, and business process optimization to enhance efficiency and reliability of applications.</p>
+<p>I am an experienced software developer with extensive expertise in geographic information systems, loyalty programs, and enterprise information systems. Specializing in the development of microservices architecture, complex system integration, and business process optimization to enhance efficiency and reliability of applications.</p>
 
 <p>Key Achievements:</p>
 
@@ -10,7 +10,7 @@
 <p>Professional Qualities:</p>
 
 - **Optimization and Modernization**: Proven ability to enhance application performance, reduce response times, and implement modern solutions to improve business processes.
-- **Team Collaboration**: Experienced in code review, mentoring, and training junior developers, contributing to team growth and skill enhancement.
+- **Collaborative Team Player**: Skilled in conducting code reviews, mentoring junior developers, and fostering team growth through knowledge sharing and skill development.
 - **Analytical Approach**: Skilled at quickly understanding and improving business processes, developing scalable solutions, and utilizing resources effectively.
 
 <h1>Contact Information</h1>
@@ -33,7 +33,7 @@
 
 Maintained functionality using .NET Core 3.1 and .NET 6.  
 Worked on high-load microservices development using CQRS and gRPC approaches.  
-Optimized PostgreSQL performance, improving query efficiency and database interactions, which significantly reduced server load and infrastructure expenses.  
+Optimized PostgreSQL performance by improving query efficiency and database interactions, which significantly reduced server load and infrastructure expenses.  
 Utilized RabbitMQ for asynchronous message processing and inter-service communication, enhancing scalability and reducing response times, leading to increased system availability and improved user experience.  
 Ensured high system performance and stability, actively implementing CI/CD processes to automate build and deployment, reducing feature release time and minimizing errors, enhancing responsiveness, and cutting support and testing costs.  
 
