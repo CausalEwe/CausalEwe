@@ -55,7 +55,7 @@ Designed and implemented services using CQRS and gRPC approaches.
 
 - **Backend**: C#, .NET, ASP.NET Razor Pages, Entity Framework Core, ELK, MSSQL (T-SQL), Redis, IdentityServer  
 - **Protocols**: Kafka, RabbitMQ, GRPC  
-- **Frontend**: Angular, Typescript  
+- **Frontend**: Angular, AngularJs, Typescript  
 - **DevOps**: Docker, Azure DevOps Server, CI/CD, OpenTelemetry  
 - **Patterns and Principles**: Clean Architecture, Domain Driven Design, CQRS, MediatR  
 
@@ -75,17 +75,17 @@ Proposed implementing ClickHouse for big data analytics, which significantly imp
 
 ---
 
-<h3>Middle .NET Developer - Neo stack Technology (June 2020 – February 2022)</h3>
+<h3>Middle .NET Full-Stack Developer - Loymax Solutions (June 2020 – February 2022)</h3>
 
-Supported and developed a monolithic application on ASP.NET Core, enhancing system performance and stability.  
-Refactored and optimized code, significantly improving application speed and reducing user request response times.  
-Developed new APIs and modules, improving interaction with users and external services, resulting in better user experience and increased client satisfaction.  
-Resolved support requests and bugs, minimizing system downtime and reducing incident rates, enhancing client trust.  
+Worked on supporting and developing the monolithic part of the application on .NET Framework, which improved system performance and stability.
+Performed code refactoring and optimization, significantly increasing application speed and reducing response times for user requests.
+Developed new APIs and modules, enhancing interaction with users and external services, leading to improved user experience and higher client satisfaction.
+Handled support requests and bugs, minimizing system downtime and reducing incidents, which helped build greater client trust.  
 
-- **Backend**: C#, .NET, ASP.NET, Razor Pages, Entity Framework, MSSQL (T-SQL)  
+- **Backend**: C#, .NET, .NET Framework 4.8, Entity Framework, MSSQL (T-SQL) 
 - **Protocols**: RabbitMQ  
-- **Frontend**: Razor Pages  
-- **DevOps**: Docker, GitLab  
+- **Frontend**: Angular, AngularJs, Typescript  
+- **DevOps**: Docker, Azure DevOps Server, CI/CD  
 - **Patterns and Principles**: Monolith, Onion Architecture  
 
 ---
