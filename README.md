@@ -12,4 +12,4 @@
 
 ---
 
-<p align="center">My professional career is thoroughly detailed in my resume, available in both <a href="resume.ru.md">Russian</a> and <a href="resume.en.md">English</a> for your convenience.</p>
+<p align="center">My professional career is thoroughly detailed in my resume, which is available in both <a href="resume.ru.md">Russian</a> and <a href="resume.en.md">English</a> for your convenience.</p>
