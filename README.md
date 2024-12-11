@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/causalewe/) [![Gmail](https://img.shields.io/badge/Gmail-orange)](mailto:sework42@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-33b4e3)](https://t.me/sework42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/causalewe/) [![Gmail](https://img.shields.io/badge/Gmail-orange)](mailto:sework42@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-33b4e3)](https://t.me/causalewe407)
 
 </div>
 
