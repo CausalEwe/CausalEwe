@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/causalewe">Sergey Karpov</a>👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/causalewe">Sergey Vyatkin</a>👋</h1>
 
 <p align="center">.NET Full-Stack Developer with deep professional experience and a commitment to delivering high-quality solutions. Currently employed and continuing to grow in my field.</p>
 
